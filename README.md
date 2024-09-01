@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yashrajsinh Jadeja
+- 👀 I’m interested in MERN development
+- 🌱 I’m currently learning flutter
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Be happy...
